@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists Example</title>
+</head>
+<body>
+    <h2>Ordered List of Computer Accessories</h2>
+    <ol>
+        <li>Keyboard</li>
+        <li>Mouse</li>
+        <li>Monitor</li>
+        <li>External Hard Drive</li>
+        <li>USB Flash Drive</li>
+    </ol>
+
+    <h2>Unordered List of Groceries</h2>
+    <ul>
+        <li>Milk</li>
+        <li>Bread</li>
+        <li>Rice</li>
+        <li>Vegetables</li>
+        <li>Fruits</li>
+    </ul>
+</body>
+</html>
