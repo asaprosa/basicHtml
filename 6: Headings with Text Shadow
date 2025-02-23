@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Headings with Text Shadow</title>
+    <style>
+        h1 { text-shadow: 2px 2px 4px #f44336; }
+        h2 { text-shadow: 3px 3px 5px #2196f3; }
+        h3 { text-shadow: 4px 4px 6px #4caf50; }
+        h4 { text-shadow: 2px 2px 8px #9c27b0; }
+        h5 { text-shadow: 3px 3px 7px #ff9800; }
+        h6 { text-shadow: 1px 1px 3px #795548; }
+    </style>
+</head>
+<body>
+    <h1>Heading Level 1</h1>
+    <h2>Heading Level 2</h2>
+    <h3>Heading Level 3</h3>
+    <h4>Heading Level 4</h4>
+    <h5>Heading Level 5</h5>
+    <h6>Heading Level 6</h6>
+</body>
+</html>
