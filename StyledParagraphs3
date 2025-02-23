@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Styled Paragraphs</title>
+    <style>
+        .p1 {
+            text-align: left;
+            color: #f44336;
+            font-family: Arial, sans-serif;
+        }
+        .p2 {
+            text-align: center;
+            color: #2196f3;
+            font-family: Georgia, serif;
+        }
+        .p3 {
+            text-align: right;
+            color: #4caf50;
+            font-family: 'Courier New', monospace;
+        }
+        .p4 {
+            text-align: justify;
+            color: #9c27b0;
+            font-family: Verdana, sans-serif;
+        }
+        .p5 {
+            text-align: center;
+            color: #ff9800;
+            font-family: 'Trebuchet MS', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <p class="p1">This is the first paragraph with left alignment and Arial font.</p>
+    <p class="p2">This is the second paragraph with center alignment and Georgia font.</p>
+    <p class="p3">This is the third paragraph with right alignment and Courier New font.</p>
+    <p class="p4">This is the fourth paragraph with justify alignment and Verdana font. Adding more text to demonstrate text justification effect properly.</p>
+    <p class="p5">This is the fifth paragraph with center alignment and Trebuchet MS font.</p>
+</body>
+</html>
