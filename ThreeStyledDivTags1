@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Three Styled Div Tags</title>
+    <style>
+        .div1 {
+            background-color: #ffebee;
+            border: 5px solid #f44336;
+            margin: 20px;
+            padding: 15px;
+        }
+        .div2 {
+            background-color: #e3f2fd;
+            border: 3px dashed #2196f3;
+            margin: 30px 20px;
+            padding: 20px;
+        }
+        .div3 {
+            background-color: #f1f8e9;
+            border: 4px dotted #4caf50;
+            margin: 25px;
+            padding: 18px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="div1">
+        <h1>Welcome to My Website</h1>
+    </div>
+    
+    <div class="div2">
+        <p>This is a paragraph with some sample text. The text demonstrates how content looks within a styled div container with specific margin and padding settings.</p>
+    </div>
+    
+    <div class="div3">
+        <img src="/api/placeholder/400/300" alt="Sample Image">
+    </div>
+</body>
+</html>
