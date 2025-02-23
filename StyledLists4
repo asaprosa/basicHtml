@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Styled Lists</title>
+    <style>
+        .item1 { text-decoration: underline; color: #f44336; }
+        .item2 { text-decoration: overline; color: #2196f3; }
+        .item3 { text-decoration: line-through; color: #4caf50; }
+        .item4 { text-decoration: underline overline; color: #9c27b0; }
+        .item5 { text-decoration: wavy underline; color: #ff9800; }
+    </style>
+</head>
+<body>
+    <h2>Ordered List</h2>
+    <ol>
+        <li class="item1">First Item</li>
+        <li class="item2">Second Item</li>
+        <li class="item3">Third Item</li>
+        <li class="item4">Fourth Item</li>
+        <li class="item5">Fifth Item</li>
+    </ol>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li class="item1">Apple</li>
+        <li class="item2">Banana</li>
+        <li class="item3">Orange</li>
+        <li class="item4">Grape</li>
+        <li class="item5">Mango</li>
+    </ul>
+</body>
+</html>
