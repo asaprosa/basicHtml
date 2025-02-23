@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diagonal Div Tags</title>
+    <style>
+        .diagonal-div {
+            width: 200px;
+            height: 200px;
+            position: absolute;
+        }
+        #div1 {
+            background-color: #f44336;
+            opacity: 0.8;
+            top: 50px;
+            left: 50px;
+        }
+        #div2 {
+            background-color: #2196f3;
+            opacity: 0.6;
+            top: 150px;
+            left: 150px;
+        }
+        #div3 {
+            background-color: #4caf50;
+            opacity: 0.4;
+            top: 250px;
+            left: 250px;
+        }
+    </style>
+</head>
+<body>
+    <div class="diagonal-div" id="div1"></div>
+    <div class="diagonal-div" id="div2"></div>
+    <div class="diagonal-div" id="div3"></div>
+</body>
+</html>
